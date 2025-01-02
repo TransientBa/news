@@ -1,0 +1,28 @@
+{
+  "name": "news-aggregation-site",
+  "version": "1.0.0",
+  "description": "一个分类展示的聚合新闻网站",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "news",
+    "aggregation",
+    "website"
+  ],
+  "author": "你的名字",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/react": "latest",
+    "@types/node": "latest"
+  }
+}
